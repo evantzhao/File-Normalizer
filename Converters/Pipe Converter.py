@@ -3,7 +3,7 @@
 File Conversion Program
 Written by Evan Zhao
 
-This program is designed to convert TXT and Excel files into formats compatible with Lavante, while placing each
+This program is designed to convert TXT and Excel files into formats compatible, while placing each
 "column" of data from the source file into a preferred order in the target file. Also does minor formatting,
 such as getting rid of white space, omitting leading zeros, and formatting dates.
 
